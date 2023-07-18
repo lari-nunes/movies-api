@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;
+  }
+  
+  body {
+    background: linear-gradient(90deg, rgb(53, 10, 109), rgb(75, 30, 128), rgb(73, 14, 107));
+    color: white;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
